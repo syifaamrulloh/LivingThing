@@ -20,7 +20,7 @@ public class PBO11K10118910Latihan62LivingThing {
     public static void main(String[] args) {
         Human manusia = new Human();
         
-        manusia.setNama("Dedi Cahya");
+        manusia.setNama("Syifa Amrulloh");
         manusia.walk(manusia.getNama());
         manusia.breath(manusia.getNama());
         manusia.eat(manusia.getNama());
